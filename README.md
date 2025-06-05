@@ -4,7 +4,7 @@
 
 Este projeto foi desenvolvido no contexto da disciplina de Programação Dinâmica, como parte da solução protótipo do VIAF – Vigilância Ativa do Fogo, uma plataforma que visa integrar informações em tempo real sobre queimadas e fornecer suporte à tomada de decisão por prefeituras, Defesa Civil e Corpo de Bombeiros.
 
-#Problema Real
+## 🌳Problema Real
 
 O Brasil enfrenta um aumento crescente nas queimadas, com impactos ambientais, econômicos e sociais. A descentralização e a falta de integração de dados dificultam a resposta eficiente.
 
