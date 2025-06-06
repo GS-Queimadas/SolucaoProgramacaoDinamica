@@ -48,3 +48,16 @@ Ferramenta         | Descrição
 * Participação de órgãos e agentes
 
 🎯 **Objetivo final**: Criar uma base sólida para um sistema de gestão pública eficaz, reduzindo impactos e salvando vidas.
+
+
+---
+
+## 👨‍💻 Desenvolvedores
+
+André de Sousa Neves - RM553515
+
+Isabela Barcellos Freire  - RM553746
+
+Thaís Gonçalves Leoncio - RM553892
+
+---
